@@ -4,7 +4,7 @@
   "description": "",
   "main": "factorial.js",
   "scripts": {
-    "test": "mocha ./test/02.*.test.js -u tdd -G"
+    "test": "mocha ./test/*.test.js -u tdd -G"
   },
   "keywords": [],
   "author": "",
