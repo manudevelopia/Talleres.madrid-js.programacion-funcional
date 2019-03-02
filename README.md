@@ -1,6 +1,8 @@
 Taller de Programación Funcional en JavaScript
 ==============================================
 
+> Este repositorio es un fork del [Taller de Programación Funcional en JavaScript](https://goo.gl/YwXtkV) de Javier Vélez.
+
 ### Keywords
 
 Programación Funcional - JavaScript - Mecanismos & Técnicas de Programación - Patrones de Diseño Funcional - Mónadas - Inversión de Control - Arquitecturas Reactivas - Secuenciamiento - Orden Superior - Evaluación Parcial - Currificación - Decoración Funcional - Optimización
@@ -60,4 +62,8 @@ Licenciado por la UPM desde el año 2001 y doctor en informática por la UNED de
     - [Taller avanzado de programación funcional con Javascript por Javier Vélez (primera parte)](https://player.vimeo.com/video/154318101)
     - [Taller avanzado de programación funcional con Javascript por Javier Vélez (segunda parte)](https://player.vimeo.com/video/154318102)
 - [Slideshare](https://www.slideshare.net/jvelez77/taller-de-programacin-funcional-en-javascript)
+<<<<<<< HEAD
 - [Github Original](https://goo.gl/YwXtkV)
+=======
+- [Github Original](https://goo.gl/YwXtkV)
+>>>>>>> juanmaruiz/feature-add-tests
